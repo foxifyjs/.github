@@ -1,1 +1,3 @@
 # .github
+
+Foxify .github metarepository
